@@ -6,3 +6,7 @@ cd app
 code . -r
 npm i
 npm run dev
+
+
+
+#Om het project te starten: npm init voor node_modules
